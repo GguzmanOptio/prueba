@@ -3,7 +3,6 @@
  * Creado por: Alfonso Ramírez
  * Fecha: 12 de Agosto del 2022
  */
-
 require './controllers/index/funciones_index.php';
 require './controllers/index/datos_index.php';
 
