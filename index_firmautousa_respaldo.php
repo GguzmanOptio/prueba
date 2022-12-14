@@ -7,7 +7,6 @@ require './controllers/index/funciones_index.php';
 require './controllers/index/datos_index.php';
 
 
-
 if ($_SESSION["name"]) { ?>
 <html lang="es">
   <head>
